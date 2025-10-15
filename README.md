@@ -17,6 +17,11 @@ This demo uses the [LLaVA-1.5-7B model](https://huggingface.co/llava-hf/llava-1.
 - Identifying objects and scenes
 - Providing detailed visual analysis
 
+## 🔗 Resources
+
+- **Research Paper**: [Visual Instruction Tuning (arXiv)](https://arxiv.org/abs/2310.03744)
+- **Project Website**: [https://llava-vl.github.io/](https://llava-vl.github.io/)
+
 ## 📋 Requirements
 
 - Python 3.8+
