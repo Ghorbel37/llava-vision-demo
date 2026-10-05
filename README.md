@@ -33,7 +33,7 @@ This demo uses the [LLaVA-1.5-7B model](https://huggingface.co/llava-hf/llava-1.
 Install the required dependencies:
 
 ```bash
-pip install bitsandbytes gradio transformers torch pillow
+pip install -r requirements.txt
 ```
 
 ## 💻 Usage
