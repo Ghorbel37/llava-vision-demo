@@ -1,0 +1,9 @@
+# Needs an NVIDIA GPU: the model is loaded in 8-bit with bitsandbytes (made for Google Colab)
+torch
+# transformers 4.x: the notebook uses from_pretrained(torch_dtype=...), renamed to dtype in later versions
+transformers<5
+accelerate
+bitsandbytes
+# gradio 6.x: kept on the current major version so a future release can't break the interface
+gradio>=6,<7
+pillow
