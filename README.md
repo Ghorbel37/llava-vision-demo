@@ -104,7 +104,7 @@ Feel free to fork this project and submit pull requests for improvements!
 
 ## 📄 License
 
-This project uses the LLaVA model from Hugging Face. Please refer to the [model card](https://huggingface.co/llava-hf/llava-1.5-7b-hf) for licensing information.
+The code in this repository is licensed under the MIT License - see the [LICENSE](LICENSE) file. The LLaVA model it downloads is not part of this repository and has its own license: see the [model card](https://huggingface.co/llava-hf/llava-1.5-7b-hf).
 
 ## Acknowledgments
 
