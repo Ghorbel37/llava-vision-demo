@@ -1,5 +1,7 @@
 # LLaVA 1.5-7B Demo
 
+*Built for a deep learning course (2025).*
+
 An interactive demonstration of the **LLaVA (Large Language and Vision Assistant)** model using Hugging Face Transformers and Gradio. This project showcases multimodal AI capabilities by combining computer vision and natural language processing to understand and describe images.
 
 ## 🌟 Features
